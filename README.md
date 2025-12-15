@@ -1,6 +1,6 @@
 # PPSSPP Website
 
-This is the entire frontend for the official ppsspp.org website.
+This is the entire frاابو محمد ntend for the official ppsspp.org website.
 
 It's built using a super-minimal site generator written in Rust.
 
@@ -80,3 +80,4 @@ Use one of the below as appropriate:
 - [Dark mode guide by Mads Stoumann](https://dev.to/madsstoumann/dark-mode-in-3-lines-of-css-and-other-adventures-1ljj)
 - [Source of homepage's background animation by Warren Davies](https://alvarotrigo.com/blog/animated-backgrounds-css/)
 - [Unused image for article headers](https://www.zupimages.net/up/22/08/uitq.png)
+
